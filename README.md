@@ -19,7 +19,7 @@ A command-line application to manage a company's employee database, using Node.j
 
 ## Walkthrough Video
 
-[Link to the walkthrough video](#)
+[Link to the walkthrough video](https://drive.google.com/file/d/15yyWuw2BsKkHL8j4E5UUCyWF8EgdkVMO/view?pli=1)
 
 ## License
 
